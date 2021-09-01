@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @patricK09
+- 👋 Hi, I’m Pat
 - 👀 I’m interested in Python and machine learning.
 - 🌱 I’m currently learning how to apply machine learning.
 - 💞️ I’m looking to collaborate on crypto projects.
