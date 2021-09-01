@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pat
-- 👀 I’m interested in Python and machine learning.
+- 👀 I’m interested in Python and Solidity.
 - 🌱 I’m currently learning how to apply machine learning.
 - 💞️ I’m looking to collaborate on crypto projects.
 - 📫 How to reach me patrickhughes013@gmail.com
